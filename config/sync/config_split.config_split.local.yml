@@ -1,0 +1,16 @@
+uuid: 4d5679fa-00e7-4aea-95d7-405060bc77c5
+langcode: es
+status: false
+dependencies: {  }
+id: local
+label: Local
+description: ''
+weight: 0
+stackable: false
+no_patching: false
+storage: folder
+folder: ../config/split/local
+module: {  }
+theme: {  }
+complete_list: {  }
+partial_list: {  }
